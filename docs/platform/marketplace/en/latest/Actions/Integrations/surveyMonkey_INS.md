@@ -12,7 +12,7 @@ permalink: platform/instructions/en/latest/Actions/surveyMonkey_INS
 
 **Authorization**
  
-To connect to Survey Monkey, Kore.ai uses OAuth authentication. The developer can use pre-authorized credentials during the configuration process or let the end user authorize during the conversation by creating an authorization profile. [Learn More](https://api.surveymonkey.com/v3/docs?shell#SurveyMonkey-Api)
+To connect to SurveyMonkey, Kore.ai uses OAuth authentication. The developer can use pre-authorized credentials during the configuration process or let the end user authorize during the conversation by creating an authorization profile. [Learn More](https://api.surveymonkey.com/v3/docs?shell#SurveyMonkey-Api)
  
  |Authorization Type                      |  OAuth - System | OAuth - Custom |
  |----------------------------------------|-----------------|----------------|
