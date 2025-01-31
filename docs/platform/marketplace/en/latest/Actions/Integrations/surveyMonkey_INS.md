@@ -1,5 +1,5 @@
 ---
-title: SurveyMonkey
+title: Survey Monkey
 
 permalink: platform/instructions/en/latest/Actions/surveyMonkey_INS
 
